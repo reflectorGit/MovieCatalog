@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieCatalog</string>
+    <string name="check_connection">Проверьте соединение</string>
+    <string name="search_hint">Поиск по названию фильма</string>
+</resources>
